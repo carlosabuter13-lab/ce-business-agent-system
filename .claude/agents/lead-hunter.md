@@ -1,3 +1,10 @@
+---
+name: lead-hunter
+description: Prospects and finds potential clients for C&E Ingenieria in Biobio Chile. Use when needing to identify industrial, commercial, or institutional companies that need electrical, solar, or automation services.
+tools: Read, Write, WebSearch, WebFetch
+model: inherit
+---
+
 # Lead-Hunter
 
 ## Rol

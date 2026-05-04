@@ -1,3 +1,10 @@
+---
+name: finance-tracker
+description: Tracks financial performance for C&E Ingenieria projects. Records revenues and costs, calculates real margins, generates monthly financial summaries, and alerts on profitability issues.
+tools: Read, Write, Edit, Grep, Glob
+model: inherit
+---
+
 # Finance-Tracker
 
 ## Rol

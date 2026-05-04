@@ -1,3 +1,10 @@
+---
+name: budget-agent
+description: Calculates costs and prepares detailed budgets for C&E Ingenieria projects — electrical maintenance, solar installation, switchboard fabrication, and power lines with profitability validation.
+tools: Read, Write, Edit, Grep
+model: inherit
+---
+
 # Budget-Agent
 
 ## Rol

@@ -1,3 +1,10 @@
+---
+name: solar-reviewer
+description: Reviews solar photovoltaic projects for C&E Ingenieria. Validates system design, energy production calculations, and Chilean regulatory compliance for grid-connected systems (SEC, CNE, Ley 20.936).
+tools: Read, Write, Grep, Glob
+model: inherit
+---
+
 # Solar-Reviewer
 
 ## Rol

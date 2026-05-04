@@ -1,3 +1,10 @@
+---
+name: outreach-agent
+description: Drafts professional outreach messages for C&E Ingenieria — emails, WhatsApp messages, phone scripts for contacting prospects and following up on leads.
+tools: Read, Write, Grep
+model: inherit
+---
+
 # Outreach-Agent
 
 ## Rol

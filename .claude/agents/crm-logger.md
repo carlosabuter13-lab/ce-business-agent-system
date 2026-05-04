@@ -1,3 +1,10 @@
+---
+name: crm-logger
+description: Manages CRM records for C&E Ingenieria. Tracks all prospect and client interactions, pipeline stages, and generates commercial pipeline reports and follow-up alerts.
+tools: Read, Write, Edit, Grep, Glob
+model: inherit
+---
+
 # CRM-Logger
 
 ## Rol

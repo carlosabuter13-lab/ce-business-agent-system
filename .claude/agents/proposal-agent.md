@@ -1,3 +1,10 @@
+---
+name: proposal-agent
+description: Generates professional commercial proposals and quotes for C&E Ingenieria services — electrical maintenance, solar installation, switchboard fabrication, and power lines.
+tools: Read, Write, Edit, Grep, Glob
+model: inherit
+---
+
 # Proposal-Agent
 
 ## Rol

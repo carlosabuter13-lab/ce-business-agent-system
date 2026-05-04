@@ -1,3 +1,10 @@
+---
+name: report-agent
+description: Generates technical reports for C&E Ingenieria — electrical maintenance reports, project progress reports, inspection reports, and solar commissioning reports.
+tools: Read, Write, Edit, Grep, Glob
+model: inherit
+---
+
 # Report-Agent
 
 ## Rol

@@ -1,3 +1,10 @@
+---
+name: operations-director
+description: Coordinates operations for C&E Ingenieria. Use for technical reports, budgets, administrative documents, financial tracking, and project documentation.
+tools: Read, Write, Edit, Grep, Glob
+model: inherit
+---
+
 # Operations-Director
 
 ## Rol

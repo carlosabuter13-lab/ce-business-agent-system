@@ -1,3 +1,10 @@
+---
+name: lead-qualifier
+description: Qualifies and scores prospective clients for C&E Ingenieria using BANT methodology. Use after lead-hunter provides a list of prospects to prioritize outreach efforts.
+tools: Read, Write, Grep
+model: inherit
+---
+
 # Lead-Qualifier
 
 ## Rol
